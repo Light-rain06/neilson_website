@@ -1,7 +1,7 @@
 ---
 title: 前端首屏加载与白屏优化
 date: 2026-04-01 17:22:35
-group: 性能优化
+group: 前端性能优化
 groupLogo: https://i.ibb.co/fzb4NBHx/xingnnegyouhua-logo.png
 ---
 

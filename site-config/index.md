@@ -15,7 +15,7 @@ hero:
       link: /recent
     - theme: alt
       text: 作品集
-      link: /projects/1. 作品索引
+      link: /projects/1-project-index
 
 # features:
 #   - title: Feature A
@@ -43,17 +43,17 @@ tk:
         - title: 前端杂谈
           icon: https://i.ibb.co/qYM828hr/html-logo.png
           details: 前端设计思想、实现方案
-          link: /docs/前端杂谈/1. 前端路由探讨
+          link: /docs/frontend-essays/1-frontend-routing
 
         - title: HTML
           icon: https://i.ibb.co/qYM828hr/html-logo.png
           details: 语义化标签、表单与多媒体、Canvas/SVG、SEO 与无障碍访问。
-          link: /docs/HTML/html1
+          link: /docs/html/html1
 
         - title: CSS
           icon: https://i.ibb.co/hJ1PnWrR/css-logo.png
           details: 选择器与盒模型、Flex/Grid 布局、响应式设计、动画与预处理器（Sass/Less）。
-          link: /docs/CSS/1. 保持元素宽高比
+          link: /docs/css/1-aspect-ratio
 
         - title: JavaScript
           icon: https://i.ibb.co/NndyXvxK/js-logo.png
@@ -94,7 +94,7 @@ tk:
         - title: Vue
           icon: https://i.ibb.co/Q7dXCfTF/vue-logo.png
           details: 响应式原理、组合式 API、Vue Router/Pinia、SSR（Nuxt）。
-          link: /docs/vue/1. slot 插槽
+          link: /docs/vue/1-vue-slot
 
         - title: React
           icon: https://i.ibb.co/hFWz41RF/react-logo.png
@@ -104,10 +104,10 @@ tk:
           icon: https://i.ibb.co/j9YyRypC/Ant-Design-logo.png
           details: Element Plus/Ant Design/Vuetify 组件使用、主题定制、按需加载。
 
-        - title: 性能优化
+        - title: 前端性能优化
           icon: https://i.ibb.co/fzb4NBHx/xingnnegyouhua-logo.png
           details: 打包优化（代码分割/懒加载）、渲染性能（重排重绘）、首屏加载优化、性能审计（Lighthouse）。
-          link: /docs/性能优化/1. 前端首屏加载与白屏优化
+          link: /docs/frontend-performance/1-first-screen-loading
 
         - title: 测试
           icon: https://i.ibb.co/gFgsBCj9/ceshi-logo.png
@@ -168,7 +168,7 @@ tk:
         - title: AI
           icon: https://i.ibb.co/ynQpbnyC/ai-logo.png
           details: 机器学习基础、LLM 应用开发、Prompt Engineering、Agent 构建（LangChain）。
-          link: /docs/AI/1. 使用 LLM 学习陌生知识
+          link: /docs/ai/1-llm-for-learning
 
         - title: Python
           icon: https://i.ibb.co/DPVH9n6h/python-logo.png
@@ -177,7 +177,7 @@ tk:
         - title: 站点搭建
           icon: https://i.ibb.co/pvHNnPhW/zhandiandajian-logo.png
           details: wordpress、vitepress。
-          link: /docs/website/1. vitepress
+          link: /docs/website/1-vitepress
 
 #     - title: 布局
 #       details: 多种布局、标签栏切换，布局组件显隐

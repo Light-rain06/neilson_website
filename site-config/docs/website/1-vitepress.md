@@ -1,3 +1,9 @@
+---
+title: vitepress 介绍
+date: 2026-04-01 17:22:35
+group: website
+groupLogo: https://i.ibb.co/Q7dXCfTF/vue-logo.png
+---
 # vitepress
 ## 简介
 一个静态站点生成器，用 Markdown 编写内容，打包构建成 HTML CSS JS，主要用于技术文档站点生成

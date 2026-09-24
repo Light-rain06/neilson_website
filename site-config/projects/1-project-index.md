@@ -1,3 +1,9 @@
+---
+title: 作品索引
+date: 2026-04-01 17:22:35
+group: projects
+groupLogo: https://i.ibb.co/Q7dXCfTF/vue-logo.png
+---
 # 作品索引
 <script setup>
 import WorkCard from '../.vitepress/theme/components/WorkCard.vue'
