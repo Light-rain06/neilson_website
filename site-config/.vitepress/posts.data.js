@@ -22,7 +22,8 @@ export default createContentLoader('**/*.md', {
         return {
           title,
           date, // 可能是 Date 对象或 null
-          url: config.base.substring(0, config.base.length - 1) + url,
+          // url: config.base.substring(0, config.base.length - 1) + url,
+          url,
           group,
           groupLogo,
           excerpt: frontmatter.description || '',
