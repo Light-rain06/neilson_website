@@ -57,7 +57,7 @@ const teekConfig = defineTeekConfig({
 export default defineConfig({
   title: "Neilson's blog",
   description: "Neilson 的技术博客",
-  base: '/blog/',
+  // base: '/blog/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
