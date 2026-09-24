@@ -1,0 +1,20 @@
+{
+  "name": "vitepress-site",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev site-config",
+    "docs:build": "vitepress build site-config",
+    "docs:preview": "vitepress preview site-config"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vitepress-theme-teek": "^1.6.2"
+  }
+}
