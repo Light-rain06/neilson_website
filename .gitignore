@@ -4,8 +4,8 @@ dist/
 .vitepress/dist/
 .vitepress/cache/
 
-docs/.vitepress/dist/
-docs/.vitepress/cache/
+site-config/.vitepress/dist/
+site-config/.vitepress/cache/
 
 *.log
 npm-debug.log*
